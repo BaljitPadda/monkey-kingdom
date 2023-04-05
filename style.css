@@ -1,0 +1,17 @@
+h1,
+h3 {
+  color: rgb(196, 40, 113);
+  font-family: Papyrus, fantasy;
+  border: 20px solid magenta;
+  padding: 5px;
+  border-radius: 20px;
+  box-shadow: 5px 10px 4px 0px rgba(0, 0, 0, 0.5);
+}
+
+body {
+  background-color: rgb(250, 231, 208);
+}
+
+h4 {
+  color: brown;
+}
